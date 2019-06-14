@@ -1,2 +1,4 @@
-import hellow from './hellowworld'
-document.write(hellow())
+import hellow from './hellowworld';
+import './index.less';
+
+document.write(hellow()+'3222')
